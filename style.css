@@ -65,7 +65,7 @@
 .vertical-text {
   writing-mode: vertical-rl;
   transform: rotate(180deg);
-  font-size: 70px;
+  font-size: 60px;
   font-weight: 900;
   letter-spacing: 8px;
   margin: 0;
